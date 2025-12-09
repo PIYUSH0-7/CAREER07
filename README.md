@@ -1,122 +1,127 @@
-# Career & Motivation Guide
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Piyush%20Gangwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header" />
+</div>
 
-This README is organized to help you present your professional identity clearly and to maintain steady self-motivation for continuous growth. Use it as a living document: update skills, goals, and habits as you progress.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BEFF7&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+The+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB;Open+to+Collaboration+%26+Opportunities!" alt="Typing SVG" />
+</div>
 
----
+<h1 align="center">Welcome! I'm Piyush Gangwar</h1>
+<h3 align="center">Redefining boundaries in Full Stack, AI & Automation. Purpose-led, obsession-driven.</h3>
 
-## Profession
+<p align="center">
+  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://piyush07-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-323232?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/Dev Path Tracker-3C3C3C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PIYUSH0-7&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-### Professional Summary
-I am a motivated and results-oriented professional focused on delivering high-quality work in [your field — e.g., Software Engineering, Data Science, Product Management]. I combine technical competence, clear communication, and a user-focused mindset to solve real problems and drive measurable outcomes.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
-### Core Skills
-- Technical: [List primary technical skills, e.g., JavaScript, Python, SQL, React, Node.js]
-- Professional: Problem solving, system design, cross-functional collaboration
-- Tools & Platforms: [List key tools, e.g., Git, Docker, AWS, Jira]
-- Soft Skills: Time management, mentorship, stakeholder communication, adaptability
+## 🚀 Obsessions: Technologies & Mastery
+<div align="center">
+<table>
+  <tr>
+    <td align="center" colspan="2"><b>🌐 Frontend Excellence</b></td>
+    <td align="center" colspan="2"><b>🛠 Backend & Automation</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td>
+  </tr>
+</table>
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+</div>
 
-### Typical Responsibilities
-- Designing and implementing reliable solutions
-- Collaborating with product and design to define requirements
-- Writing clean, tested, maintainable code
-- Reviewing peers’ work and providing constructive feedback
-- Measuring impact and iterating on features
+## 📈 Analytics
 
-### Achievements & Metrics
-- Example: Reduced page load time by 35% resulting in a 12% lift in engagement.
-- Example: Led a migration that improved deployment reliability from 70% to 98%.
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=piyush0-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush0-7&theme=tokyonight&hide_border=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush0-7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PIYUSH0-7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
 
-(Replace examples above with your real achievements and metrics.)
-
-### Career Goals (12–24 months)
-- Short term: Master [a key skill or technology], contribute to larger system design decisions, ship a feature end-to-end.
-- Medium term: Lead a small team, own a product area, improve reliability and developer experience.
-- Long term: Transition to senior/lead role or start mentoring programs within the org.
-
----
-
-## Self-Motivation
-
-Sustained progress requires a mix of structure, small wins, and reflection. Below are practical techniques and templates to keep momentum.
-
-### Principles
-- Progress > Perfection: Focus on incremental improvement.
-- Systems over Goals: Create repeatable habits that naturally produce results.
-- Feedback Loop: Build quick feedback into everything you do.
-
-### Daily Routine (example)
-- Morning (30–60 min): review priorities, plan 3 MITs (Most Important Tasks), 20–30 minutes focused learning.
-- Work blocks (90–120 min): single-tasking, 5–10 min breaks between blocks.
-- Evening (15–20 min): reflect on wins, log blockers, plan tomorrow’s MITs.
-
-### Weekly Routine
-- Monday planning: set 3–5 weekly goals linked to career objectives.
-- Midweek review: quick check on progress and adjust.
-- Friday reflection: document accomplishments, lessons, and next steps.
-
-### SMART Goal Template
-- Specific: What exactly will you accomplish?
-- Measurable: How will you track progress?
-- Achievable: Is it realistic in the timeframe?
-- Relevant: Does it align with long-term goals?
-- Time-bound: When will it be completed?
-
-Example:
-- Goal: "Ship the user profile redesign in 8 weeks with automated tests and a 95% test pass rate on CI."
-
-### Habit Strategies
-- Habit stacking: attach a new habit to an existing one (e.g., after morning coffee, read for 20 minutes).
-- Two-minute rule: start with a two-minute version of any habit to reduce friction.
-- Accountability: share goals with a peer or mentor; set weekly check-ins.
-
-### Motivation Tools
-- 1-Page Vision: Write a one-paragraph vision of where you want to be in 2 years.
-- Micro-actions list: Small, specific tasks you can do in 10–30 minutes.
-- Reward system: Small rewards for hitting milestones (e.g., one hour of personal time, a favorite snack).
-
-### Resilience & Mindset
-- Reframe setbacks as learning signals.
-- Keep a “wins” log: short bullet points of progress to review when motivation dips.
-- Use a growth mindset: see skills as improvable through practice.
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIYUSH0-7/PIYUSH0-7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PIYUSH0-7/PIYUSH0-7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PIYUSH0-7/PIYUSH0-7/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## Practical Templates
+## 🚩 Signature Projects
 
-Daily Planning (copy/paste)
-- Date:
-- MITs (3):
-  1.
-  2.
-  3.
-- Quick wins (2):
-- Learning (30 min):
-- Blockers:
+> Projects go beyond code. Each milestone is a step towards engineering solutions for tomorrow.
 
-Weekly Retrospective (copy/paste)
-- Week of:
-- Wins:
-- What didn’t go well:
-- Lessons learned:
-- Next week’s focus:
+### 🧑‍💻 Full Stack Ventures
+- 🌟 **Project Alpha — Soon**    
+  _Pushing the boundaries: Full-stack innovation with MERN & Next.js. Launch imminent._
+
+- 🤖 **Project VisionAI — Soon**
+  _Transforming automation using AI-first principles. Under construction._
+
+### 💡 Algorithmic Mastery
+- 📘 **LeetCode Solutions & DSA** — [Dive into My Repository](https://github.com/PIYUSH0-7/LeetCode-Proofs-DSA-Practice-)
 
 ---
 
-## How to Use This README
-- Customize sections with your specific skills, tools, and real achievements.
-- Keep the routines and templates as a living playbook — adjust frequencies and durations to fit your schedule.
-- Use this repo as a place to version your professional growth plan, store learning notes, and track progress over quarters.
+## 📊 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush07&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 LeetCode & Competitive Edge
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/piyush0-7?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
-## Contact
-- Name: [Your name]
-- Email: [your.email@example.com]
-- LinkedIn/GitHub: [links]
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <h2>💎 Connect & Collaborate</h2>
+  <a href="https://github.com/PIYUSH0-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush070/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://piyush07-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-323232?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://dev-path-tracker.vercel.app/"><img src="https://img.shields.io/badge/Dev Path Tracker-3C3C3C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <br /><br />
+</div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
-If you'd like, I can:
-- commit this README to the repository, or
-- generate a short professional bio and a one-page career plan based on your current role and goals — tell me which and I'll proceed.
-```
+<div align="center">
+  <b>🚀 "Greatness is a habit — not an act. Let's build tomorrow together." 🚀</b><br>
+  <b>⭐️ If this inspires you, star my repositories & connect. The journey just began. ⭐️</b>
+</div>
+
+
