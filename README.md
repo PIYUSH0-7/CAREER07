@@ -12,8 +12,8 @@
   <a href="#-quick-start"><img src="https://img.shields.io/badge/🚀-Quick%20Start-00D9FF?style=for-the-badge"/></a>
   <a href="#-features"><img src="https://img.shields.io/badge/✨-Features-FF6B6B?style=for-the-badge"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/🛠-Tech%20Stack-4ECDC4?style=for-the-badge"/></a>
-  <a href="#-demo"><img src="https://img.shields.io/badge/🎥-Demo-F7B731?style=for-the-badge"/></a>
-  <a href="#-roadmap"><img src="https://img.shields.io/badge/🗺-Roadmap-A8E6CF?style=for-the-badge"/></a>
+  <a href="#-screenshots"><img src="https://img.shields.io/badge/🎨-Screenshots-F7B731?style=for-the-badge"/></a>
+  <a href="#-future-roadmap"><img src="https://img.shields.io/badge/🔮-Roadmap-A8E6CF?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
@@ -243,27 +243,54 @@ npm run dev
 
 <div align="center">
 
-### 🖥️ Main Dashboard
+> **Note**: Screenshots coming soon! Run the application locally to see the beautiful interface in action.
 
-<img src="https://via.placeholder.com/800x450/1a1a2e/00d9ff?text=Dashboard+View+-+Track+Your+Progress" alt="Dashboard Screenshot" width="80%"/>
+### ✨ What You'll See:
 
-<sub>*Dynamic dashboard showing all 5 phases with real-time progress tracking*</sub>
+<table>
+<tr>
+<td width="33%" align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/dashboard.png" width="64"/>
+  <h4>📊 Dashboard</h4>
+  <p>Beautiful overview of all 5 career phases with visual progress tracking</p>
+</td>
+<td width="33%" align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/checklist.png" width="64"/>
+  <h4>✅ Task Tracker</h4>
+  <p>Detailed view of each domain with interactive task checkboxes</p>
+</td>
+<td width="33%" align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/chat.png" width="64"/>
+  <h4>💬 AI Tutor</h4>
+  <p>Intelligent chat interface with personalized learning guidance</p>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="64"/>
+  <h4>📅 Exam Calendar</h4>
+  <p>Never miss important dates with comprehensive exam schedule</p>
+</td>
+<td width="33%" align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/graph.png" width="64"/>
+  <h4>📈 Analytics</h4>
+  <p>Detailed insights into your learning progress and achievements</p>
+</td>
+<td width="33%" align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/multiple-devices.png" width="64"/>
+  <h4>📱 Responsive</h4>
+  <p>Seamlessly works across desktop, tablet, and mobile devices</p>
+</td>
+</tr>
+</table>
 
-<br><br>
+### 🚀 Try It Yourself!
 
-### 📊 Domain Tracker
+```bash
+npm install && npm run dev
+```
 
-<img src="https://via.placeholder.com/800x450/16213e/4ecdc4?text=Domain+Tracker+-+Detailed+Task+Management" alt="Domain Tracker" width="80%"/>
-
-<sub>*Detailed view of tasks within each skill domain with checkbox tracking*</sub>
-
-<br><br>
-
-### 🤖 AI Tutor Interface
-
-<img src="https://via.placeholder.com/800x450/0f3460/ff6b6b?text=AI+Tutor+-+Get+Personalized+Guidance" alt="AI Tutor" width="80%"/>
-
-<sub>*AI-powered chat interface for learning assistance and career guidance*</sub>
+Then open `http://localhost:5173` to see the interface in action!
 
 </div>
 
