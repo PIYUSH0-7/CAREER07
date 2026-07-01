@@ -8,7 +8,6 @@ Proactive networking and continuous learning are the ultimate pillars of a resil
 
 <!-- THOUGHT_END -->
 
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
