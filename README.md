@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Always optimize for growth velocity in the early and mid stages of your software engineering journey.
+<Your career is a product; constantly gather feedback, build new features (skills), and market yourself effectively.>
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Each week, pick one hard skill, learn it via a micro‑project, then review what you earned and what remains.
 
 <!-- THOUGHT_END -->
 
