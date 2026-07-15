@@ -4,7 +4,7 @@
 
 Your career is a product; constantly gather feedback, build new features (skills), and market yourself effectively.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
