@@ -4,7 +4,7 @@
 
 Always optimize for growth velocity in the early and mid stages of your software engineering journey.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
